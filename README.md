@@ -1,2 +1,2 @@
 # Remote-sensing
-Remote sensing and Google Earth Engine(Earth)
+Remote sensing and Google Earth Engine(GEE)
