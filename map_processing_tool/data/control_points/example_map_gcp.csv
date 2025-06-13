@@ -1,0 +1,12 @@
+# Example Ground Control Points File (CSV)
+# Format: id,image_x,image_y,geo_x,geo_y,epsg_code
+# image_x, image_y: pixel coordinates (column, row from top-left)
+# geo_x, geo_y: geographic coordinates (e.g., longitude, latitude or easting, northing)
+# epsg_code: EPSG code of the geographic coordinates (e.g., 4326 for WGS84 Lon/Lat)
+# This is a placeholder for actual georeferencing data.
+# For the georeference_map function to be more than a placeholder,
+# it would need to parse these points and use them in a transformation.
+gcp1,10,20,-73.985130,40.758896,4326
+gcp2,150,30,-73.958012,40.783083,4326
+gcp3,100,200,-73.991505,40.748447,4326
+gcp4,50,150,-74.000550,40.750550,4326
